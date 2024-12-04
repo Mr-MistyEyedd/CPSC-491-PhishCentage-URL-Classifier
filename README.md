@@ -22,9 +22,9 @@ NOTE: Raw dataset files are not included in this repository, as it is too large 
 
 ## Technologies Used: 
 
-Jupyter Notebook
-\tPython 3.12
-Scikit Learn
-Numpy
-Pandas
+Jupyter Notebook, 
+Python 3.12, 
+Scikit Learn, 
+Numpy, 
+Pandas, 
 Graphviz
