@@ -14,7 +14,7 @@ NOTE: Raw dataset files are not included in this repository, as it is too large 
 
  So far, these are the results when measuring this system based on accuracy, precision, recall, F1-Score, and AUC:
 
-![Results](Results.png)
+![Results]([Figure 14.png](https://github.com/Mr-MistyEyedd/CPSC-491-PhishCentage-URL-Classifier/blob/main/Figure%2014.png))
 
 
 
