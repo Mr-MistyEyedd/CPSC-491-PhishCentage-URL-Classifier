@@ -1,7 +1,7 @@
 # CPSC-491-PhishCentage-URL-Classifier
  This is a semester project for CPSC 491: Senior Capstone Project in Computer Science. The objective of this project is to employ machine learning techniques in the field of cybersecurity to develop a classifier system capable of distinguishing between legitimate and malicious URLs.
 
-# Function
+# Requirements
  This project was created using the Jupyter Notebook software in a Python version 3.12 Virtual Environment. Make sure to install the necessary modules beforehand for the cells to function correctly when run. Some of the Jupyter files have a couple of instructions or texts that describe what was done to the Virtual Environment in order to assist the user. If the instructions are too vague, research the solutions of the error messages if they are given after the cells are run. 
 
 ## Datasets Used:
