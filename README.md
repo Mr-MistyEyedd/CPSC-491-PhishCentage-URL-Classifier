@@ -23,7 +23,7 @@ NOTE: Raw dataset files are not included in this repository, as it is too large 
 ## Technologies Used: 
 
 Jupyter Notebook
-Python 3.12
+\tPython 3.12
 Scikit Learn
 Numpy
 Pandas
