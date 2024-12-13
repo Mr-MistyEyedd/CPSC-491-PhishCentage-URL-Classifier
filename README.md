@@ -5,7 +5,7 @@
  This project was created using the Jupyter Notebook software in a Python version 3.12 Virtual Environment. Make sure to install the necessary modules beforehand for the cells to function correctly when run. Some of the Jupyter files have a couple of instructions or texts that describe what was done to the Virtual Environment in order to assist the user. If the instructions are too vague, research the solutions to the error messages if they are given after the cells are run. 
 
 ## Datasets Used:
-NOTE: The raw dataset files are not included in this repository, since it is too large to commit. You can download these data sets in the links below and place these files in the `/Dataset` folder before running these notebooks instead.
+NOTE: The raw dataset files are not included in this repository, since it is too large to commit. You can download these data sets in the links below and place these files in the `/Dataset` folder before running these notebooks instead. Also, be sure to split your own preprocessed_testing and preprocessed_training datasets to how you see fit as they will not be provided in this repository to prevent any possible bias.  
 
  - Dataset of Malicious and Benign Webpages: https://data.mendeley.com/datasets/gdx3pkwp47/1
  - 7+ Million Company Dataset: https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset?resource=download 
